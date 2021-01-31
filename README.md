@@ -1,28 +1,22 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/NICK-FTW/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
-  TBomb v2.0b
+  Sms & Call Bomber
   <br>
 </h1>
 
 
-<p align="center">A free and open-source SMS/Call bombing application</p>
-
-## Note:
+<p align="center">A free SMS/Call bomber</p>
 
 
-> ## Deprecation Warning:
-> **All TBomb versions below v2.0 will no longer work after 14-11-2020.**  
-**All TBomb users need to update to v2.0 ASAP**
-
-**Due to overuse of script, a bunch APIs have been taken offline. It is okay if you do not receive all the messages.**
+**Due to overuse, a bunch of APIs have been taken offline. You may not be able to receive all the messages.**
 
 
 - The application requires active internet connection to contact the APIs
-- You would not be charged for any SMS/calls dispatched as a consequence of this script
+- You will not be charged for any SMS/calls dispatched as a consequence of this script
 - For best performance, use single thread with considerable delay time
-- Always ensure that you are using the latest version of TBomb and have Python 3
+- Always ensure that you are using the latest version of this script and have Python 3
 - This application must not be used to cause harm/discomfort/trouble to others
 - By using this, you agree that you cannot hold the contributors responsible for any misuse
 
@@ -31,11 +25,11 @@ Check your Python version by typing in
 ```shell script
 $ python --version
 ```
-If you get the following
+If you get
 ```shell script
 Python 3.8.3
 ```
-or any version greater than or equal to 3.4, this script has been tested and confirmed to be supported. For obsolete versions of Python (eg 2.7), use discretion while executing the script as it has not been tested there.
+or any higher version or equal to 3.4, this script will work flawlessly. 
 
 ## Features
 
@@ -65,7 +59,7 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/NICK-FTW/TBomb
 cd TBomb
 ./TBomb.sh
 ```
@@ -77,7 +71,7 @@ To use the application, type in the following commands in iSH.
 apk add git
 apk add python3
 apk add py3-pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/NICK-FTW/TBomb.git
 cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
@@ -89,7 +83,7 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/NICK-FTW/TBomb.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -111,7 +105,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/NICK-FTW/TBomb.git
 cd TBomb
 ```
 
@@ -125,37 +119,8 @@ bash TBomb.sh
 
 The package `toilet` cannot be installed yet. But TBomb does still work.
 
-## Demonstrative Video:
-
-- Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
-- Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
-
-## Contributors
-
-- Catch **[t0xic0der](https://github.com/t0xic0der)** at https://atlasdoc.netlify.app
-- Check **[Avinash](https://github.com/AvinashReddy3108)** at https://github.com/AvinashReddy3108
-- Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
-- Mail **[Stefan](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
-- Ping **Rieltar** at https://t.me/RieltarReborn
-
-
-## Donators:
-
-- **[34D30Y](34db0y@protonmail.com)**
-- **SC AMAN**
-
-## TODO:
-
-- [x] Make Code More Readable and Extensible
-- [x] Add Mail Spam Module
-- [ ] Add Mail Spam APIs
-- [x] Add Update Feature using git
-- [ ] Add Update Feature without git (download tarball and extract)
-- [x] Split code into multiple files (after Deprecation)
-
 
 ## Contact me  
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
+For Queries: [Telegram Group](https://t.me/teamerror101)  
 
